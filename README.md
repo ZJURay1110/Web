@@ -1,2 +1,3 @@
-# Web
-share my little web dev wroks, well , not so good
+# 一些非常无聊且简单的东西
+
+就是一些简单的小网站（）
